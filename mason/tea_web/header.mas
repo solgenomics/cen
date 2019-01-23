@@ -1,7 +1,7 @@
 <!doctype html public "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
   <head>
-    <title>PEN</title>
+    <title>CEN</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <script type="text/javascript" src="/static/js/jquery.js"></script>
     
@@ -38,7 +38,7 @@
               <span class="icon-bar"></span>
             </button>
             <a class="navbar-brand" href="https://www.citrusgreening.org" style="padding:8px 8px" target="_blank"><img src="/static/images/cg_logo.png" width="40" title="CG Home"></a>
-            <a class="navbar-brand sgn_brand_name" href="/">Citrus Expression Network</a>
+            <a class="navbar-brand sgn_brand_name" href="/expression_viewer/input">Citrus Expression Network</a>
           </div>
           
           <div class="collapse navbar-collapse" id="myNavbar">

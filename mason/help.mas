@@ -10,14 +10,14 @@
       
       <br>
       <p>
-        The Psyllid Expression Network (PEN) is an interactive tool to visualize high resolution gene expression data.
+        The Citrus Expression Network (CEN) is an interactive tool to visualize high resolution gene expression data.
         These help pages explain several ways to query the expression data 
         and to visualize the results, enabling the comparison of the expression profiles of several genes simultaneously, 
         as well as to visualize co-expression information. One section describes how to download the expression data
         in a format that is easy to export to spreadsheet software and to generate figures that are ready for presentations or publications.
         <br>
         <br>
-        A case study is included here to illustrate how to use the PEN to identify genes of interest that are coexpressed with a candidate gene. 
+        A case study is included here to illustrate how to use the CEN to identify genes of interest that are coexpressed with a candidate gene. 
       </p>
       
       <br>
